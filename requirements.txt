@@ -1,0 +1,4 @@
+mnemonic==0.20
+bip-utils==2.7.1
+colorama==0.4.6
+requests==2.31.0
